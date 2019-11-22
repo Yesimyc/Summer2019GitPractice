@@ -3,6 +3,6 @@ package JavaCode;
 public class Person {
 
     private int age;
-    String firstName;
+   final String firstName=Yesim;
 
 }
