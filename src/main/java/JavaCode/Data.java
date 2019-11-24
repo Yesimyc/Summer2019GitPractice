@@ -6,4 +6,5 @@ public class Data {
 
     String Name= "Java";
     byte grade=85;
+    int num=100;
 }
