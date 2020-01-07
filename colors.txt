@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 blue
 green
+=======
+bluegit status
+red
+black
+>>>>>>> cb56024a48456009824e7be4ec19471a16a02eb0
