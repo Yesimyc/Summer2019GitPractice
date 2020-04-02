@@ -9,4 +9,4 @@ navy blue
 apple
 pink
 white
-Java is fun
+123456
