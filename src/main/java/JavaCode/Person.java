@@ -5,6 +5,9 @@ public class Person {
     private int age;
     String firstname = "yesim";
     String adress;
+    String number;
+    String Book;
+    String phone;
 
     }
 
