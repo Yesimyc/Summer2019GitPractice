@@ -9,3 +9,4 @@ navy blue
 apple
 pink
 white
+Java is fun
