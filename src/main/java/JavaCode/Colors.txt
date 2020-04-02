@@ -7,3 +7,4 @@ yellow
 purple
 navy blue
 apple
+white
