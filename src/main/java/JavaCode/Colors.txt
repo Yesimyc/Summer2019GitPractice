@@ -7,7 +7,7 @@ yellow
 purple
 navy blue
 apple
-<<<<<<< HEAD
+
 pink
 
 =======
