@@ -12,7 +12,4 @@ white
 orange
 cayan
 mint
-cayan
-Java is fun
-123457
 
