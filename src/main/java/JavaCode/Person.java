@@ -12,8 +12,7 @@ public class Person {
     public Person(int age){
         this.age=age;
     }
-int age =35;
-    
+
     }
 
 
