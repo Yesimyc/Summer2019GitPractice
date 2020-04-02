@@ -11,3 +11,4 @@ pink
 white
 orange
 cayan
+mint
