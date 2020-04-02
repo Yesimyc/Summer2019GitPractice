@@ -7,5 +7,9 @@ yellow
 purple
 navy blue
 apple
+<<<<<<< HEAD
 pink
 
+=======
+white
+>>>>>>> 30bc5d6e55e461026156b3783bdb4340d17f0e3a
