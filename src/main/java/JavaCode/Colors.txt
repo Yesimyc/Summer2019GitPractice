@@ -10,3 +10,4 @@ apple
 pink
 white
 orange
+cayan
