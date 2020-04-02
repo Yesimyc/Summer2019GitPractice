@@ -11,7 +11,7 @@ pink
 white
 orange
 cayan
-java is fun
-123
+mint
+cayan
 
 
