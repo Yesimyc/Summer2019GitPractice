@@ -9,4 +9,5 @@ navy blue
 apple
 pink
 white
-123456
+orange
+cayan
