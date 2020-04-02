@@ -9,6 +9,10 @@ public class Person {
     String Book;
     String phone;
 
+    public Person(int age){
+        this.age=age;
+    }
+
     }
 
 
