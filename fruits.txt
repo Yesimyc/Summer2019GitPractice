@@ -19,5 +19,10 @@ Black
 White
 
 >>>>>>> 246eff37334ab40fb8110911c92861980048a9da
+<<<<<<< HEAD
 Tomato
+=======
+onion
+>>>>>>> f5b9791eb1aba95e208b115d291b698808bfd5f6
 
+Honey
