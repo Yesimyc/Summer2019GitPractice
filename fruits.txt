@@ -12,5 +12,11 @@ PineApple
 Papaya
 Mango
 >>>>>>> 5bec26532e839464ad62e4647591ac3b0308af89
+<<<<<<< HEAD
 Purple
+=======
+Black
+White
+
+>>>>>>> 246eff37334ab40fb8110911c92861980048a9da
 
