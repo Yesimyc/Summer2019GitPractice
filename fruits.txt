@@ -2,4 +2,5 @@ orange
 apple
 mandarin
 banana
+strawberry
 
