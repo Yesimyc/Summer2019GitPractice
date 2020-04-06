@@ -5,6 +5,11 @@ banana
 strawberry
 blackberry
 Kiwi
+<<<<<<< HEAD
 PineApple
 
+=======
+Papaya
+Mango
+>>>>>>> 5bec26532e839464ad62e4647591ac3b0308af89
 
