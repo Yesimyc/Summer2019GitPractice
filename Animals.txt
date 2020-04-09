@@ -2,6 +2,4 @@ cat
 dog
 tiger
 lion
-rabbit
-wolf
-fox
+zebra
